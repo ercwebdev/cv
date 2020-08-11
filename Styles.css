@@ -3,7 +3,7 @@
   }
 
   hr {
-    
+
     border-style: dotted none none;
     border-spacing: inherit;
     border-color: gray;
@@ -12,3 +12,11 @@
     height: 0px;
     width: 4%;
   }
+
+h1{
+  color: #66BFBF;
+}
+
+h3{
+  color: #66BFBF;
+}
