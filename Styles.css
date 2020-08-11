@@ -1,0 +1,14 @@
+  body{
+    background-color: #b0c4de;
+  }
+
+  hr {
+    
+    border-style: dotted none none;
+    border-spacing: inherit;
+    border-color: gray;
+    border-width: 5px;
+    border-spacing:
+    height: 0px;
+    width: 4%;
+  }
